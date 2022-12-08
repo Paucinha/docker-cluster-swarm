@@ -1,6 +1,6 @@
 # Projeto Docker Cluster Swarm
 
-[![GitHub](https://img.shields.io/github/license/Paucinha/projeto-docker)](https://github.com/Paucinha/docker-cluster-swarm/blob/master/LICENSE)
+[![GitHub](https://img.shields.io/github/license/Paucinha/projeto-docker)](https://github.com/Paucinha/docker-cluster-swarm/blob/master/license)
 
 # Descrição
 
@@ -38,5 +38,3 @@ Pré-requisitos:
 Projeto desenvolvido durante o Bootcamp Cloud DevOps Experience - Banco Carrefour, fornecido pela [**DIO**](https://www.dio.me/)
 
 By Paucinha!!!
-# docker-cluster-swarm
-# docker-cluster-swarm
