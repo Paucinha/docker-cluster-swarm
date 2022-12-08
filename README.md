@@ -19,7 +19,7 @@ Neste desafio de projeto foi criado um Cluster Swarm local, utilizando máquinas
 
 # Passo a Passo:
 
-1 - Criado um Vagrantfile com as definições de 3 máquinas virtuais. Sendo uma  máquina com o nome de "master" e as outras com os nomes de "aws01" e "aws02";
+1 - Criado um Vagrantfile com as definições de três máquinas virtuais ou Nodes. Sendo uma máquina com o nome de "master" e as outras com os nomes de "aws01" e "aws02";
 
 2 - Cada máquina virtual com um um IP fixo;
 
